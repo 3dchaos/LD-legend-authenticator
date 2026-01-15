@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="老登电脑解锁器客户端2.9.exe" Options="497408" VMCodeSectionName=".???" VMComplexity="33" OutputFileName="老登电脑解锁器客户端(保护).exe">
+        <Messages>
+            <Message Id="0">你想干嘛？？</Message>
+            <Message Id="2">文件坏了。</Message>
+        </Messages>
+        <Folders />
+        <Procedures />
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>
